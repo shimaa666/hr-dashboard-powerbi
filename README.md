@@ -24,4 +24,6 @@ This project presents an interactive HR dashboard built using Power BI to analyz
 
 ## 📸 Dashboard Preview
 (Add screenshots here)
-# hr-dashboard-powerbi
+
+## 📥 Download Project
+[Download Power BI File](https://drive.google.com/file/d/1XeHMtitLjyuiGNPY54zZoq_pdD4YZbPo/view?usp=sharing)
